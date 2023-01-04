@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.exe
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.deps.json
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.runtimeconfig.json
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.dll
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\bin\Debug\net6.0\MoodAnalyzerAppWithCore.pdb
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.AssemblyInfo.cs
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.dll
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\refint\MoodAnalyzerAppWithCore.dll
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.pdb
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\MoodAnalyzerAppWithCore.genruntimeconfig.cache
+D:\DLS-RFP-231\Mood Analyzer\MoodAnalyzerAppWithCore\obj\Debug\net6.0\ref\MoodAnalyzerAppWithCore.dll
